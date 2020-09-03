@@ -9,4 +9,4 @@ Python, Tkinter, GUI, YouTube Video Downloader, Pytube3
 * [Tkinter](https://wiki.python.org/moin/TkInter)
 
 ## Licence & Copyright
-This work is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/)
+[License](https://creativecommons.org/publicdomain/zero/1.0/)
