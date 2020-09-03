@@ -10,4 +10,4 @@ Python, Tkinter, GUI, YouTube Video Downloader, Pytube3
 
 ## Licence & Copyright
 © TheMainSam
-[MIT Licence](LICENSE)
+[CC0](LICENSE)
