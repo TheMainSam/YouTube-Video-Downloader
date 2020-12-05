@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-Download YouTube Videos Using Python & Pytube3
+Download YouTube Videos Using Python
 
 [License](https://github.com/TheMainSam/YouTube-Video-Downloader/blob/master/LICENSE)
 
