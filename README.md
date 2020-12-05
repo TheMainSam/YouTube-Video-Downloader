@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-Python, Tkinter, GUI, YouTube Video Downloader, Pytube3
+Download YouTube Videos Using Python & Pytube3
 
 [License](https://github.com/TheMainSam/YouTube-Video-Downloader/blob/master/LICENSE)
 
