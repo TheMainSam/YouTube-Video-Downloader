@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader
-Download YouTube Videos Using Python
+A simple application to download YouTube videos using Python. Tkinter API is used for GUI.
 
 [License](https://github.com/TheMainSam/YouTube-Video-Downloader/blob/master/LICENSE)
 
